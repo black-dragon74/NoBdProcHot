@@ -1,4 +1,4 @@
-NoBdProcHot for Mac OS X
+NoBdProcHot for macOS
 =================================
 
 This kernel extension allows you to disable *BDPROCHOT* on Macs running the latest Intel Core processors.
